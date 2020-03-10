@@ -1,4 +1,4 @@
-# Projeto teste
+# Este arquivo serve para descrever o que é o projeto.
 
-## Este é um projeto de teste do curso de Git do Tiago
+
 
